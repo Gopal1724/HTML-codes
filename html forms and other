@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <h1 style="background-color: red;"> this is my first heading</h1>
+    <h2 style="color:brown;"> this is my second heading</h2>
+    <p>this is para</p>
+    <a href="https://www.google.com">click here</a>   
+<!-- <ul>
+   <li>maggie</li>
+   <li>kurkure</li>
+   <li>chips</li>  
+    <ol><li></li>
+    <li>2</li>
+    <li>3</li>
+    <table>
+        <tr>
+            <td> sr.no</td>
+            <td>Name</td>
+            <td>marks</td>
+        </tr>
+        <tr>
+            <td>1</td>  
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>4</td>  
+            <td>5</td>
+            <td>6</td>
+        </tr>
+
+    </table>
+    <table><tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+
+
+</ul>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.news18.com%2Fmovies%2Fdeepika-padukone-flaunts-sindoor-avoids-paps-at-anant-radhikas-wedding-amid-baby-bump-trolling-8963871.html&psig=AOvVaw386sjwXDHGOvcDG2EIj21D&ust=1720960374746000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC4w5-DpIcDFQAAAAAdAAAAABAE"alt="deepika padukone">
+
+<p>Lorem <b>ipsum </b>ipsum dolor sit. ipsum dolor sit amet consectetur adipisicing elit. Beatae dignissimos, facilis sapiente, illo dolor asperiores blanditiis nobis quidem molestias facere odit quibusdam quaerat, possimus neque minus recusandae voluptate? Quisquam quis rem saepe dicta eaque suscipit cum laboriosam. Ratione accusantium obcaecati architecto voluptas reprehenderit, sit vel ullam. Quibusdam similique necessitatibus dolorem., ipsum dolor sit amet consectetur adipisicing elit. Eveniet quibusdam vel magnam harum explicabo inventore? In, sequi? A molestiae error repudiandae beatae cum consequuntur corporis tempore sapiente numquam nihil. Repellendus.</p>
+<p><s>Lorem </s><b>ipsum </b>ipsum dolor sit. ipsum dolor sit amet consectetur adipisicing elit. Beatae dignissimos, facilis sapiente, illo dolor asperiores blanditiis nobis quidem molestias facere odit quibusdam quaerat, possimus neque minus recusandae voluptate? Quisquam quis rem saepe dicta eaque suscipit cum laboriosam. Ratione accusantium obcaecati architecto voluptas reprehenderit, sit vel ullam. Quibusdam similique necessitatibus dolorem., ipsum dolor sit amet consectetur adipisicing elit. Eveniet quibusdam vel magnam harum explicabo inventore? In, sequi? A molestiae error repudiandae beatae cum consequuntur corporis tempore sapiente numquam nihil. Repellendus.</p>
+<p>
+    2<sup>5</sup>
+    
+</p>
+<p>o<sub>2</sub></p>
+<p>
+ <pre>my name is gopal
+    i live in hyd </prej> 
+</p>
+<ul><li></li>
+<li></li>
+<li></li>
+<!-- for emmet list -->
+ <!-- <article></article>
+ <ssection></ssection>
+ <p><h1></h1>
+    <p><p>
+        <p></p> 
+
+    </p>
+    <p>this is my 1 para</p>
+    <h3>this is my first heading</h3>
+<article>this is my1 article</article>
+<section>this is my 1 section</section>
+<p><a href=""></a>
+    <p></p>
+    <a href=""></a>
+    <!-- for id craetion p#para1 -->
+    <!-- <p id="para1"></p>
+    <article id="article"></article>
+    <!-- for class creation p.para -->
+     <!-- <p class="para"></p>
+<p>
+    <ul>
+        <li>a</li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</p>
+<p></p>
+<article></article>
+<section></section>
+<header></header>
+<main></main>
+<footer></footer>
+<a href="">click here</a>
+ <div class="container"><section>
+    <ul>
+        <li></li> -->
+        <!-- <li></li> -->
+    </ul>
+    <f></f></div>   -->
+<div style="background-color:green ;">this is my first DIV </div>
+<span style="background-color:yellow ;">this is my first DIV </span>
+</section> -->
+<ul>
+    <li> -->
+        <!-- <p><a href="https://app.ibomma.market/telugu-movies/">A</a></p>
+    </li>
+    <li>
+        <p><a href="">B</a></p>
+    </li>
+    <li>
+        <p><a href="">C</a></p>
+    </li>
+    <li>
+        <p><a href="https://www.google.com">G</a></p>
+    </li>
+    <li>
+        <p><a href="https://www.instagram.com/">W</a></p>
+    </li>
+    <li>
+        <p><a href="https://www.google maps.com">M</a></p>
+    </li>
+    <li>
+        <p><a href="">D</a></p>
+    </li>
+</ul>
+<nav>
+    
+        <li><a href="">Home</a></li>
+        <li><a href="">About</a></li>
+        <li><a href="">Contact Us</a></li>
+        <li><a href="">Login</a></li> -->
+   
+<!-- </nav>
+<a href="tel:+ ">call us</a>
+<a href="mailto:vadithyarajgopal71@gmail.com">mail</a> -->
+<!-- tables -->
+ <!-- <table border="1">
+    <thead>
+<th>Student Id</th>
+<th>Student Name</th>
+<th>Gender</th>
+<th>Age</th>
+
+
+    </thead>
+    <tbody>
+<tr>
+<td>123</td>
+<td>pandu</td>
+<td>M</td>
+<td rowspan="3">18</td>
+
+
+</tr>
+<tr>
+    <td>123</td>
+    <td colspan="3">pandu</td>
+    
+    
+    </tr>
+    <tr>
+        <td>123</td>
+        <td>pandu</td>
+        <td>M</td>
+        <td></td>
+        
+        
+        </tr>
+
+
+    </tbody>
+
+
+
+ </table>
+ <table border="1">
+<tr>
+<td>col1</td>
+<td>col2</td>
+<td>col3</td>
+
+</tr>
+<tr>
+    <td rowspan="2">row 1 cell</td>
+<td>row 1 cell 2</td>
+<td>row 1 cell 3</td>
+    
+
+</tr>
+<tr>
+<td>row 2 cell 2</td>
+<td>row 2 cell 3</td>
+
+</tr>
+<tr>
+    <td colspan="3">row 3 cell 3</td>
+</tr>
+
+
+ </table>
+ <table border="1"> 
+<thead>
+   <th>NO.</th>
+   <th>FullName</th>
+   <th>Position</th> 
+   <th>Salary</th>
+   <th>type</th> 
+</thead>
+
+<tbody>
+    <tr>
+        <td>1</td>
+        <td>bill gates</td>
+        <td>founder of mc</td>
+        <td>1000$</td>
+        <td rowspan="4">company founder</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>steve</td>
+        <td>founder of apple</td>
+        <td>1100$</td>
+        
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>larry</td>
+        <td>founder of google</td>
+        <td>1300$</td>
+        
+    </tr>
+<tr>
+    <td>4</td>
+        <td>mark</td>
+        <td>founder of fb</td>
+        <td>1400$</td>
+        
+</tr>
+
+</tbody>
+
+<tfoot>
+<tr>
+    <td colspan="3">total expense:</td>
+    <td>$4600</td>
+</tr>
+
+</tfoot> -->
+
+
+
+ <!-- </table>
+ <table border="1">
+    <thead>
+        <th>country</th>
+        <th>state</th>
+        <th>city</th>
+        <th>street</th>
+        <th>male</th>
+        <th>female</th>
+        <th>others</th>
+    </thead>
+    <tbody>
+    <tr>
+        <td rowspan="8">1</td>
+        <td rowspan="4">kerala</td>
+        <td rowspan="2">cochin</td>
+        <td>newstreet</td>
+        <td>500</td>
+        <td>600</td>
+        <td>6</td>
+    </tr>
+    <tr>
+    <td>mainstreet</td>
+    <td>300</td>
+    <td>288</td>
+    <td>2</td>
+    </tr>
+    <tr>
+        <td rowspan="2">trivandrum</td>
+        <td>gurustree</td>
+        <td>500</td>
+        <td>600</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>tvk street</td>
+        <td>500</td>
+        <td>600</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td rowspan="4">maharastra</td>
+        <td rowspan="2">mumbai</td>
+        <td>krishna street</td>
+        <td>700</td>
+        <td>850</td>
+        <td>1</td>
+    </tr>
+    <tr>
+<td>main street</td>
+<td>500</td>
+<td>600</td>
+<td>2</td>
+    </tr>
+    <tr>
+        <td rowspan="2">surath</td>
+        <td>new street</td>
+        <td>500</td>
+        <td>600</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>billa street</td>
+        <td>500</td>
+        <td>600</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td rowspan="2">2</td>
+        <td rowspan="2">Alaska</td>
+        <td rowspan="2">AKA central</td>
+        <td>newstreet</td>
+        <td>200</td>
+        <td>210</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>cross street</td>
+        <td>1000</td>
+        <td>1050</td>
+        <td>10</td>
+    </tr></tbody>
+
+ </table>
+ <table border="1">
+    <thead>
+        <th rowspan="2">Day</th>
+        <th columnspan="2">seminar</th>
+        <th columnspan="2">schedule</th>
+        <th>begin</th>
+        <th>end</th>
+        <th>topic</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>monday</td>
+            <td>8</td>
+            <td>5</td>
+            <td>xml</td>
+        </tr>
+    </tbody>
+
+ </table> -->
+ 
+<form >
+<label for="email">Enter Email ID</label>
+<input type="text" id="email" placeholder="Enter your email here:">
+</br>
+</br>
+<label for="passwor">Enter Paaword</label>
+<input type="text" id="password">
+</br>
+</br>
+
+<input type=submit" value="SUBMIT">
+
+
+</form>
+<form >
+    <fieldset>
+        <legend>HTML form dummy</legend>
+        <label for="datepicker">choose date:</label>
+        <input type="date" id ="datepicker">
+    </br>
+    </br>
+    <label for="selector1">choose your Dish:</label>
+    <select name="dishes" id="selector1">
+    <option value="maggie">Maggie</option>
+    <option value="bingoo">Bingoo</option>
+    <option value="7 up">7 UP</option>
+    
+    </select>
+    <input type="submit"value ="Main hu button">
+    <textarea name="textarea1" id="textarea1" placeholder="enter text here"></textarea>
+    </fieldset>
+</form>
+<form>
+    <label for="textfield">TextField:</label>
+    <input type="text"name="textfield" id="textfiled">
+</br>
+</br>
+<label for="button1">Button</label>
+<input type="submit" name="button1"id="button1" value="subscribe">
+</br>
+</br>
+<label for="radio1">RadioButton1</label>
+<input type="radio" name="radio1"id="radio1">
+</br>
+</br>
+<label for="radio2">RadioButton2</label>
+<input type="radio" name="radio2"id="radio2">
+</br>
+</br>
+<label for="radio3">RadioButton3</label>
+<input type="radio" name="radio3"id="radio3">
+</br>
+</br>
+<label for="checkbox1">English</label>
+<input type="checkbox" name="check1box"id="checkbox1">
+<label for="checkbox2">Hindi</label>
+<input type="checkbox" name="checkbox2"id="checkbox2">
+</br>
+</br>
+<label for="fileselct1">Upload</label>
+<input type="file" name="fileselct"id="fileselect1">
+</br>
+</br>
+<input type="image"name="imagebutton1" id="imagebutton1"alt="click here" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vogue.in%2Ffashion%2Fcontent%2Fdeepika-padukone-indian-wear-wardrobe-best-saris-lehengas-kurta-sets&psig=AOvVaw0KGbn0EbgvSeq5QY6m6468&ust=1720984663826000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDL9s3dpIcDFQAAAAAdAAAAABAE">
+</br>
+</br>
+<label for="password1">Enter Password</label>
+<input type="password"name="password"id="password1">
+</br>
+</br>
+</br>
+</br>
+<!-- complete registration form -->
+<form>
+    <h2>Registartion</h2>
+    <label for="name">Name</label>
+    <input type="text" name="name" id="name">
+</br>
+</br>
+<label for="emailId">EmailId</label>
+<input type="email" name="emailId"id="emailId">
+</br>
+</br>
+<label for="phonenumber">Phone No</label>
+<input type="tel"id="phonenumber"name="phonenumber">
+</br>
+</br>
+
+<label for="occupationtype">OCCUPATION:</label>
+<select name="occpationtype" id="occupationtype">
+    <option value="student">Student</option>
+<option value="professor">Professor</option>
+<option value="other">other</option>
+</select>
+<fieldset>
+    <legend>Topic of intrest</legend>
+    <label for="checkbox1">HTML</label>
+    <input type="checkbox"name="checkbox"id="checkbox1">
+
+    <label for="checkbox2">CSS</label>
+    <input type="checkbox"name="checkbox"id="checkbox2">
+    <label for="checkbox3">JAVA</label>
+    <input type="checkbox"name="checkbox"id="checkbox3">
+</fieldset>
+<label for="textarea1">Comments:</label>
+</br>
+<textarea name="textarea1" id="textarea1" cols="30" rows="10"></textarea>
+<input type="submit" value="Register">
+
+</form>
+<!-- one more form job application  -->
+<form>
+    <h2>Job apllication</h2>
+<label for="name">Name:</label>
+<input type="text"name="name"id="name">
+</br>
+</br>
+<label for="emailid">Email:</label>
+<input type="mail"name="emailid"id="emailid">
+</br>
+</br>
+<label for="phonenumber">Phone:</label>
+<input type="tel"name="phonenumber"id="phonenumber">
+</br>
+</br>
+<label for="fileupload">Resume</label>
+<input type="file"name="fileupload"id="fileupload">
+</br>
+</br>
+<label for="counter">Experience(in years)</label>
+<input type="number"name="counter"id="counter"min="0"max="50">
+</br>
+</br>
+<fieldset>
+    <legend>Skills</legend>
+    <label for="checkbox1">HTML</label>
+    <input type="checkbox"name="checkbox"id="checkbox1">
+
+    <label for="checkbox2">CSS</label>
+    <input type="checkbox"name="checkbox"id="checkbox2">
+    <label for="checkbox3">JAVA</label>
+    <input type="checkbox"name="checkbox"id="checkbox3">
+</fieldset>
+<label for="educationtype">Highest educatio:</label>
+<select name="educationtype" id="educationtype">
+<option value="a">A</option>
+<option value="b">B</option>
+<option value="c">C</option>
+<option value="d">D</option>
+</select>
+<fieldset>
+   <legend>Availability</legend> 
+   <label for="radio1">Full-time</label>
+   <input type="radio"name="radio"id="radio1">
+</br>
+</br>
+   <label for="radio2">part-time</label>
+   <input type="radio"name="radio"id="radio2">
+</br>
+</br>
+<label for="textarea1">Comments</label>
+</br>
+<textarea name="textarea1" id="textarea1"></textarea>
+</fieldset>
+<input type="submit"value="Submit Applicatio:">
+
+</form>
+<form>
+
+<fieldset>
+    <legend>Personal Informatio</legend>
+    <label for="name">Name:</label>
+<input type="text"name="name"id="name">
+</br>
+</br>
+<label for="emailid">Email:</label>
+<input type="mail"name="emailid"id="emailid">
+</br>
+</br>
+<label for="phonenumber">Phone:</label>
+<input type="tel"name="phonenumber"id="phonenumber">
+</br>
+</br>
+<label for="dateofbirt">Date of Birth</label>
+<input type="date"name="dateofbirth"id="dateofbirth">
+<span>Gender:</span>
+<label for="radio1">Male</label>
+   <input type="radio"name="radio"id="radio1">
+
+   <label for="radio2">Female</label>
+   <input type="radio"name="radio"id="radio2">
+</br>
+<label for="country">Country</label>
+<select name="country" id="country">
+<option value="india">India</option>
+<option value="us">USA</option>
+</select>
+
+</fieldset>
+<fieldset>
+    <legend>Adress:</legend>
+    <label for="street">Street</label>
+    <input type="text"name="street" id=""street>
+   </br>
+</br>
+    <label for="city">city</label>
+    <input type="text"name="city" id="city">
+</br>
+</br>
+    <label for="state">State</label>
+    <input type="text"name="state" id="state">
+</br>
+</br>
+    <label for="code">Zip=Code</label>
+    <input type="text"name="code" id="code">
+
+</fieldset>
+<fieldset>
+    <legend>Other info</legend>
+<label for=textarea1"">Comments</label>
+</br>
+   <textarea name="textarea1" id="textarea1" cols="30" rows="10"></textarea> 
+   <label for="checkbox">I agree</label>
+   <input type="checkbox"name="checkbox"id="checkbox">
+   <input type="submit"value="Submit">
+</fieldset>
+
+
+
+
+
+
+</form>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
